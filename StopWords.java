@@ -3,7 +3,6 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class StopWords {
-    //Stop words declaration
     File stopWords = new File("/Users/loganameres/Desktop/Programming Workshop/Semester-Project/stopwords.txt");
 
         try (Scanner myReader = new Scanner(stopWords)) {
