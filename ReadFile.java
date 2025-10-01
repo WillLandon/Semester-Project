@@ -3,5 +3,15 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class ReadFile {
+    //Scanner Declaration
+    File myObj = new File("/Users/loganameres/Desktop/Topic 1/article1.txt");
 
+        try (Scanner myReader = new Scanner(myObj)) {
+        while (myReader.hasNextLine()) {
+            String data = myReader.nextLine();
+            System.out.println(data);
+        }
+    } catch (FileNotFoundException e) {
+        System.out.println("An error occurred.");
+    }
 }
