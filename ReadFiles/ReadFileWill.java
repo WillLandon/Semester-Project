@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class ReadFile {
+public class ReadFileWill {
     public static void main(String[] args) {
         File myObj = new File("/Users/willlandon/Desktop/ProgrammingWorkshop/Semester-Project/movies/guardian.txt");
 
