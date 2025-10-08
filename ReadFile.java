@@ -3,10 +3,8 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class ReadFile {
-    public static void main(String[] args) {
-        File myObj = new File("headphones/article1.txt");
-
-        try (Scanner myReader = new Scanner(myObj)) {
+    public static void readFile(File file) {
+        try (Scanner myReader = new Scanner(file)) {
             while (myReader.hasNextLine()) {
                 String data = myReader.nextLine();
                 System.out.println(data);
