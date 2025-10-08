@@ -1,5 +1,6 @@
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main {
@@ -13,7 +14,7 @@ public class Main {
         File roman1 = new File("roman/caesar.txt");
         File roman2 = new File("roman/caligula.txt");
         File roman3 = new File("roman/constantine.txt");
-
+        ArrayList<String> list = new ArrayList<String>();
         ReadFile.readFile(head1);
     }
 }
