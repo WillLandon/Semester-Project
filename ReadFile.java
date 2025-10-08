@@ -3,14 +3,16 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class ReadFile {
-    //File myObj = new File("/Users/loganameres/Desktop/Topic 1/article1.txt");
+    public static void main(String[] args) {
+        File myObj = new File("headphones/article1.txt");
 
         try (Scanner myReader = new Scanner(myObj)) {
-        while (myReader.hasNextLine()) {
-            String data = myReader.nextLine();
-            System.out.println(data);
+            while (myReader.hasNextLine()) {
+                String data = myReader.nextLine();
+                System.out.println(data);
+            }
+        } catch (FileNotFoundException e) {
+            System.out.println("An error occurred.");
         }
-    } catch (FileNotFoundException e) {
-        System.out.println("An error occurred.");
     }
 }
