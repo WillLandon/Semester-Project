@@ -1,0 +1,85 @@
+
+Sony WH-1000XM6 review: unbeatable
+Sony's latest flagship headphones are an improvement that not only keeps them in the race...
+
+It’s sometimes hard to believe that, in this day and age, an “old” product category like headphones can still evolve and improve over time. Though, it can be argued that consumer-grade headphones are still evolving in terms of bringing higher-quality drivers to products with a more “reasonable” price tag. And, when we are talking about wireless headphones, there are still developments being made in the fidelity of sound transmitted.
+
+And you probably guessed it, but the short tirade above was inspired by the new Sony WH-1000XM6. Does it feel like an evolution over the Sony WH-1000XM5? Well, the name is still terrible. But the sound — that was a pleasant surprise.
+
+The WH-1000XM6 were released in May of 2025, as the direct successor to the Sony WH-1000XM5 from 2022. They launched with an MSRP of $449.99, but you can regularly find them for at least $30 off. But $400+ is still a hefty tag. Worth it?
+
+Sony WH-1000XM6 in a nutshell:
+All plastic build — light and solid
+30 mm dynamic driver
+Tons of audio customization options in app
+Touch and swipe controls
+Sony 360 Audio
+Sony DSEE Extreme audio upscaling
+Bluetooth multipoint for dual device connectivity
+Three color options
+Cool carry case
+No IP rating
+
+Sony WH-1000XM6 specs
+
+You may have noticed that the Sony WH-1000XM6 set features a new-ish audio codec — LC3. It was included with Bluetooth 5.2 in 2019, but we've yet to see it widely adopted by wireless headphones. It's a codec specifically for voice calls — it's meant to replace the old SBC, which we know to be garbled, muffled, and generally not great. In our tests, the Sony WH-1000XM6 do sound very good for voice calls — surprisingly clear. Sony's WH-1000XM5 also supports LC3.
+
+Sony WH-1000XM6 design and colors
+
+These generally repeat the design language of the WH-1000XM5. Sleek overall build (as much as that can be said for over-ear headphones) with diagonal lines, flat surfaces, and a slightly futuristic aesthetic. They are entirely plastic and lightweight — the 30 mm driver inside is also made of a carbon fiber composite and is also said to be lightweight.
+
+All in all, we feel it. Compared to other premium headphones that have metal headbands or ear cups, the Sony WH-1000XM6 are very light and probably the least fatiguing headphones we've reviewed in a while. The length adjustment is a solid slide mechanism, and the clamping pressure is just right, the way the cups sit against your ears is snug and already isolates the outside world by quite a lot.
+
+For the bad part, yes they do feel plasticky. The build itself is solid, but the material is soft, warm matte. If you pick one of the darker colors — black or blue — you will notice them being a huge fingerprint magnet.
+
+The other thing that the WH-1000XM6 is not excellent in is controls. Media playback is controlled with touch gestures over the right earcup. Swipe horizontally for forward-back, up and down for volume. Taps and holds to play and pause or activate transparency mode momentarily. The left cup does have a physical on/off and physical noise cancelation toggle.
+
+While the controls aren't slow to respond or anything, they are still not as great as the nice tactile switches on the recently-released Nothing Headphone (1) or Apple's well-known AirPods Max.
+
+The case design of the Sony WH-1000XM6 is certainly a winner. Now, with these over-ear cans, it's kind of a given that your carry case will be kind of bulky. There's no way around that. Sony does shave some size down by making its flagship headphones have a foldable frame. And the case of the WH-1000XM6 can be called "sleek", industry standards considered. We specifically love the magnetic latch — no annoying zipper that you need to fiddle with.
+
+Sony WH-1000XM6 sound quality
+
+By default, these already sound very good out of the box. They are the type of headphones that don't make me reach for the EQ to "fix" something, but to maybe enhance or tailor to my tastes instead.
+
+The presence is sweet, but not hissy. The highs have some attack to them but are not picky. The mids have a lot of warm detail, and the lows thump in a satisfying, controlled way. The soundstage is wide, but not super-wide. For example, I'd say the AirPods Max are a bit wider, though it does make sense with their bigger cans that sit a little bit further than your ear.
+
+The EQ in the new Sony Headphones app is probably my favorite thing. You no longer need to be an audio geek that knows which frequencies they want to attack to get "their sound" out of the headset. There's a new simple mode, which just gives you 5 different sound profiles to pick from. They are not labelled, you don't see a graph, so you don't "listen with your eyes". You just go through all 5 and pick the one that actually sounds the best to you. Once you choose one, you are presented with 5 extra options, which fine-tune the sound around your main choice.
+
+At the end, the app will show you the EQ adjustments it did to achieve "your" sound. From then on, it's saved as an EQ profile that you can toggle, at the very end of the profiles list. And you can fine-tune it if you wish.
+
+The EQ itself has also been upgraded. This seems to be a specific feature for the Sony WH-1000XM6 — you get access to more bands, and more control over the bass frequencies, instead of everything being piled in a single "Clear Bass" slider, as it is on older flagships. On the surface, this EQ doesn't look as "advanced" as the one on the Nothing Headphone (1) — the latter gave you fine access to which frequencies you are adjusting, as well the width of a band. However, Nothing's EQ is more looks and less effectiveness, as boosting one frequency lowers the rest in a weird way. The EQ of the Sony headphones clearly attacks the specific frequencies you are adjusting, boosting and cutting only them, in a very musical way.
+
+These do support Sony's DSEE Extreme. It's an "audio upscaling algorithm" that supposedly takes lower bitrate audio and reconstructs it for more fidelity before it hits your ears. I am typically skeptical of how much of this you can hear. It may be placebo, but for me — DSEE Extreme improved dynamics and the "openness" (bottom- and high-end) of the sound very slightly. I mean so slightly that I am wondering if it was placebo or not. Feel free to keep it always on, but be aware that it does drain battery a bit faster — maybe keep it off when traveling.
+
+Sony's Spatial Audio is good but...
+
+360 Reality Audio is a pretty cool feature. A lot of people are familiar with Spatial Auido, which was popularized by Apple and is slowly being adopted in Android products. In reality, Sony was first to introduce 360 Reality Audio, which does pretty much the same thing — place audio sources in a virtual space around you, so music feels more three-dimensional, or "like you are there, with the band". The downside is that there are very few apps that work with and let you enjoy 360 Reality Audio — those being Amazon Music, Tidal, and nugs.net. Raise your hand of you are subscribed to any one of these. Somebody? Anybody?
+
+While Apple's Spatialize feature works across the entire iOS ecosystem, 360 Reality is still pretty inaccessible. However, I will make the argument that the "Spatialize anything" approach doesn't always work out great, especially not for music. Whereas the services that Sony is partnered with will give you tracks that have actually been mastered for the spatial sound feature, so that's a plus. In my opinion, 360 Reality Audio sounds good but not good enough to be worth the hassle. It's "different", not necessarily "better", yet it requires you to always use that product, always on that specific streaming service.
+
+Sony WH-1000XM6 Noise Cancelation
+
+Sony proudly says these are the "best noise-canceling headphones on the market". While I won't go to that absolute, I'd say they definitely are among the best — and I wouldn't be surprised if a definitive 3rd party benchmark proved Sony's statement.
+
+The WH-1000XM6 already limit a lot of outside sounds with their design alone. Adding the excellent noise cancelation on top basically drowns out the outside world. The pass-through Transparency Mode is also excellent at letting natural sound in, with source directions being appropriately represented.
+
+Sony is quite proud of this feature and even has an auto noise cancelation level adjusted within the app. Basically, it will detect what you are doing and the level of ambient sound around you to enable or disable ANC and adjust its strength automatically. The idea is — if you are sitting in place at the office, and there's just an air conditioner and chatter going on, ANC will be on. If you are walking around, transparency may be turned on so you have more awareness of your surroundings. In reality, I found that the automatic ANC controls simply don't kick in in the right mode when I personally would want them to, so I keep this off. The ANC button on the headphones themselves is good enough.
+
+Sony WH-1000XM6 connectivity
+
+These support AAC and LDAC for high-quality audio on both Apple devices and Android / PC. Pairing is quick through Microsoft Swift Pair and Android Fast Pair, and they do support multi-point, meaning you can have two devices connected at the same time. The WH-1000XM6 will automatically switch to the one most recent sound source.
+
+They also support LC3, for improved voice in calls and we can report that these do sound great — it was immediately evedent within a virtual team meeting when I put them on for the first time.
+
+Sony WH-1000XM6 battery life
+
+Sony promises 30 hours of battery life. This number will be impacted by your usage — whether you are using them on LDAC or AAC, whether you have ANC and DSEE Extreme on, and the volume of course. Our thoughts on their endurance is that they are not among the best marathon runners out there, but they do outlast the AirPods Max. As long as you remember to charge them up once every three days or so, you should be fine.
+
+Sony headphones do have this cool feature that if you just press the power button once, a voice will tell you how much battery you have left, so at no point was battery charge a concern to me. Also, they do support a quick charge where you can get 3 hours of use if you plug them in for 3 minutes.
+
+Sony WH-1000XM6 should you buy them?
+
+In all honesty, these just became my "easy to recommend" headphones for 2025. If you are willing to spend $450 on a pair of cans, that is. And yes, they do sound better than the WH-1000XM5 to the point where I would recommend saving up to get the newer model.
+
+There are just very few "ifs" and "buts" to the whole package. They feel great, they fit great, they sound great, they have a great carry case. In comparison, the Nothing Headphone (1) that we recently reviewed deliver a lot of value for $300. But they look this way, they sound that way — they just don't cast a wide net. The Sony WH-1000XM6 will very probably please most people that try them out.
