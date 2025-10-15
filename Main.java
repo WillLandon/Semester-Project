@@ -15,6 +15,7 @@ public class Main {
         File roman2 = new File("roman/caligula.txt");
         File roman3 = new File("roman/constantine.txt");
         ArrayList<String> list = new ArrayList<String>();
-        ReadFile.readFile(head1);
+        //ReadFile.readFile(head1);
+        StopWords.stopWords(head1);
     }
 }
