@@ -1,0 +1,122 @@
+
+Sony WH-1000XM6 review: It (mostly) delivers
+Excellence isn't necessarily perfection.
+
+Few headphones get as much buzz as Sony’s latest active noise canceling (ANC) cans, and the Sony WH-1000XM6 is probably the most-anticipated of its line. Routinely topping the lists of “best ANC headphones” from outlets online, do the new cans stack up to the rest of the line, or do they fall flat? Let’s listen.
+
+What’s it like to use the Sony WH-1000XM6?
+
+The story of the Sony WH-1000XM6 is one of a company hunting down and eliminating gripes from past models in the same line. Gone is the fragile hinge, gone is the odd lay-flat-only design of the WH-1000XM5, and gone is the difficult-to-distinguish power button on the earcup. The company even fixed the ANC mic cover issue by replacing the shield with a grille. Sony very intently read what people found objectionable about past headphones and attacked each gripe head-on. This is good: it means that you shouldn’t have to worry about these little things any longer. As these headphones are meant to assume the roles of a primary music vehicle, telecom headset, and noise attenuators, they’ve got a lot on their plate.
+
+Using the Sony WH-1000XM6 is quite a bit boring — but I mean that in the kindest possible sense. If you’ve used wireless ANC headphones before, there aren’t really many surprises: the connection is easy, the control scheme is familiar, and you don’t even need the app to use the Sony WH-1000XM6 — you can just pair and play. Installing the app grants you more advanced features, but even without it you can get the best these headphones have to offer out of the box, and that’s a good baseline to have.
+
+There is no ingress protection rating for the Sony WH-1000XM6, and the documentation goes out of its way to hammer the point home that the headphones are susceptible to moisture. While a workout shouldn’t kill these, definitely don’t take them on a tour of Niagara Falls or anything. I don’t think a gentle mist will be much of a problem, but if you want to listen to these outside, I strongly suggest paying attention to the weather forecast.
+
+Included in the packaging to the Sony WH-1000XM6 is a snap-shut case that holds the cables, headphones, and little else. It works fairly well, but doesn’t inspire the confidence a zipper does. Then again, zippers break, so to each their own.
+
+Product maintenance is a bit of a question mark, though the pads are easy to remove in the event that you need to clean them. Just grab the top of the earpads and firmly start peeling it out of the chassis; you’ll hear some snapping, but it’s just the hooks coming undone. You can snap them back into place afterward without having to take your headphones to a service center. As it is with most top-tier ANC headsets, there’s no easy access to the battery. It will also be a while before we see if there will be any replacement pads on the market for the headphones, so try to keep yours intact for a bit if you do buy the Sony WH-1000XM6.
+
+My biggest gripe with the Sony WH-1000XM6 is the comfort, which is a tough thing to contextualize because of how different everyone’s ears are. The wider band structure is more accommodating to larger heads without leaving smaller noggins out in the cold, but the pads are relatively thin compared to what many might prefer. Though I will always gripe about thin ear pads, the material grips to skin fairly well, and the mesh is loose enough to avoid putting too much pressure on your ears.
+
+But my main issue is that the ANC mic protrudes a couple of millimeters from the mesh plane, and can easily touch your ear if you don’t get a great seating right off the bat. One of my colleagues even had it rub a bit on his ears, which can be a little annoying. Normally, I wouldn’t be too hard on something like this, but you can affect your results if your tragus presses into this little bit.
+
+What are the best features of the Sony WH-1000XM6?
+
+As the Sony WH-1000XM6 is the flagship headphone product of a major company, it’s no surprise that the feature list in long. For example, installing the Sony Sound Connect app enables such things as a 10-band equalizer, EQ presets, advanced Bluetooth settings, toggling passthrough features like speak-to-chat and head gestures, and spatial audio via the 360 Reality Audio platform. Additionally, you can also now upmix audio through the app to emulate what it may sound like with Sony’s proprietary spatial audio solution.
+
+On top of that, you can enable DSEE extreme, enable a volume limiter, prioritize connection quality, and all sorts of things that only power users will tinker with. I appreciate this level of control through an app, but to list every little feature and setting in a review would be gross overkill. It’s a lot. But suffice to say: most of the software/firmware features that you’d want in a set of top-tier ANC headphones are there. Most.
+
+There is the glaring omission of not having USB-C passthrough for audio, and not having ghte latest Bluetooth standard. While that may not seem like a big deal right now, the market is moving to more LE audio options and the USB connector taking on the responsibilities of the headphone jack. Not having these things might become a sore spot in a couple of years as competitors, large and small, have started to plan for the future. People won’t likely find any fault with the headphones for the next year or so, but the WH-1000XM6 may “age” a little quicker than its competitors in some of the more niche demands.
+
+How does the Sony WH-1000XM6 connect?
+
+The Sony WH-1000XM6 is able to connect to wireless sources over its Bluetooth 5.3 radio via LDAC, AAC, SBC, and LC3. Though LC3 and LE  connections are present, Auracast did not work for us at the lab, and wired USB-C audio is conspicuously absent. Analog fans can connect to wired sources with the included 3.5mm TRRS cable. Given that Apple, Beats, Sennheiser, JBL, and others have added USB audio to their flagship headphones, this might be a sore spot.
+
+For those of you with Android phones, the headphones support receiving Auracast broadcasts, so when you’re traveling you can connect to airport announcements in your language, use the headphones at stadiums and other venues to listen directly to the announcement broadcasts, and more. It’s one of those features that may not be a household name yet, but it’s something that will enhance the usability of your headphones once it starts proliferating more places.
+
+I found that forcing LDAC to the 660kbps option was the best blend of stability and performance (like usual), but the headphones will default to the “best effort” setting when connected to an Android phone. If you want to change this, you’ll have to enable developer options and tinker with the audio settings in there, or install the Sony Sound Connect app. You can also enable Multipoint, but you will have to settle for a lower-bitrate codec for the task.
+
+If you’re worried about latency, there are three options available to you: AAC, LC3, or wired listening. The first two cut down the time it takes for your music to reach your ears versus LDAC and SBC from 100-200ms to anywhere between 30 and 50ms (source depending), and the wired listening will be pretty much immediate. Still, given that 30ms is 0.03 seconds… I’m not too sure people can reliably notice that.
+
+How long does the Sony WH-1000XM6’s battery last?
+After surviving our standardized battery test for 37 hours and 14 minutes, the Sony WH-1000XM6 does an admirable job at powering through a week or intercontinental flight. This result lands the Sony WH-1000XM6 squarely in the middle of the top tier of ANC headphones, beating out the AirPods Max (20 hours), Bose QuietComfort Ultra (27+ hours), and the Sony WH-1000XM5 (30 hours).
+
+Battery life of top ANC headphones:
+Sennheiser MOMENTUM 4 Wireless: 56:21
+JBL Tour One M3: 55:37
+Sony WH-1000XM6: 37:14
+Sony WH-1000XM5: 31:53
+Bose QuietComfort Ultra: 27:37
+Apple AirPods Max: 20:00
+As far as charging options goes, the only way to get juice to your Sony WH-1000XM6 is via the USB-C port on the right earcup. Sony boasts that a 3-minute charge is enough to grant you 3 hours of listening, and while I haven’t tested that claim specifically, it’s not exactly like headphones have huge batteries to begin with. Consequently, even without fast charging, you’re likely to get a lot of playback time out of a short charge anyway.
+
+It’s likely that with the larger battery of the Sony WH-1000XM6 that you won’t end up having to recharge your headphones as often as you would with true wireless earbuds, and that’s good — batteries, especially Lithium-based cells, tend to give up the ghost after a few years or 500ish charge cycles. But by limiting the wear you put on the cells by recharging, you can expect your product to last quite a bit longer. That’s good news if you’re hoping that these cans will stick with you for a few years at least.
+
+How well does the Sony WH-1000XM6 cancel noise?
+
+The Sony WH-1000XM6 is a set of competent noise canceling headphones, comparable to the rest of the pack of top-end ANC headsets. But it’s on the back of the very strong isolation that makes high-frequency incidental noise a lot less likely to reach your ears. What’s not as obvious on this chart is that the extremely high isolation means that the Q3 chip’s job is much easier than it would be otherwise. By physically blocking out a really high amount of outside noise, the Sony WH-1000XM6 allows the ANC system to shine in the sub-1kHz region, deleting outside noise quite well.
+
+Sony’s updated ANC system has a lot of power behind it, even though the line chart above may not show it. After a certain point, you’re pouring in exponentially higher amounts of effort to fight over scraps in terms of improvement, which is why our scoring is pegged to a percentage loudness reduction rather than anything else. If you can’t hear it, does the difference really matter?
+
+But with this, the efficacy of the ANC is a bit different, and it may hasten some changes in how we compare headphones as a result. With the Sony WH-1000XM6’s ability to process signals through the Q3 chip and get the right output to cancel noise quickly, the headphones are quite capable in noisy environments. I found when creating the ANC sims for the video review that the AI optimizer was able to shift on the fly pretty quickly to handling different scenarios.
+
+Because of this, you may find that you prefer the noise attenuation of the Sony WH-1000XM6 over, say, that of the JBL Tour One M3, despite both models offering a similar level. But there is a rather huge caveat here. And that’s the fit. Though the headphones do their best, those with glasses might find that interrupting the seal can lead to somewhat unpredictable results with low-end noise cancelation. For this, I really wish the padding was thicker, but I understand that the chassis caused some challenges as it is.
+
+How does the Sony WH-1000XM6 sound?
+These are measurably the best-sounding Sony WH-1000X-series headphones yet; Sony really listened to some good advice here.
+
+Reviewer’s notes
+Editor’s note: this review uses a hover-enabled glossary to describe sound quality based on a consensus vocabulary. You can read about it here.
+
+I know that it’s quite boring to listen to someone tell you that they don’t have any major gripes with a set of headphones, but that’s what I have to do here. The Sony WH-1000XM6 does a great job of reproducing music without adding distortion, really bizarre swings in emphasis, or other objectionable junk. While the tuning is a bit more dark than my tastes, the increased bass emphasis is something that most people won’t be too mad about, and the peaks in the highs will create the illusion of more detail in music by boosting the range where atmospheric effects and some attack sounds live.
+
+Anyone worried about having their head rattled with overly boomy bass after seeing where Sony went with the ULT WEAR will be spared that kind of tuning. This is good, because the stock sound will not only appeal to more people, but it’s a lot easier to tweak in the app. If you only have to make a few minor adjustments, then you can set it and forget it without much fuss. No micromanaging with third-party apps, no wild array of presets to sift through, none of that. I appreciate that not only because I have to test everything, but I really hate going through the motions of determining which one brings users the closest to “reasonable” when it should always be the stock sound. Good job Sony!
+
+Having a bump through the lows and low mids can help older tracks like Barry White’s “Never never gonna give ya up” and Earth, Wind, and Fire’s “Shining star” sound a little less like they’re from the vinyl era and more accessible to younger ears. I did notice that some songs with atmospheric effects like Nine Inch Nails’ “Leaving Hope” had some over-emphasis in the upper-end that was a little grating, but as I’ve listened to that song hundreds of times: it’s worth pointing out that the Sony WH-1000XM6 is hardly the worst offender.
+
+In general, I’m impressed by the 30mm drivers in the headphones, and while they’re set quite far back from the user’s ear, they stand up well to competing units. I think the decision to move to a stiffer dome has paid dividends, and it seems like Sony’s got some decent performers in the ANC headphone arena, even if that category isn’t exactly known for its world-beating audio quality. Slowly but surely, we seem to be seeing headphones creep their way into better audio.
+
+Objective Measurements
+
+I had a difficult time testing these headphones, but it was mainly because getting good measurements with such thin padding can give you some really weird results. Test heads aren’t hot like humans, so they don’t always cause the foam inside the pads to stretch like it might when a real person was wearing the headphones. Consequently, I left the headphones on the head for quite a while to get the seating to finish before measuring.
+
+After the fit settled a bit, and some troubleshooting, the headphones measured very well. Though there’s a bit more emphasis in the lows than I’d like, that tends to be something many people gravitate to in headphones meant for the outside world. It’s also not as extreme as, say, the Sony ULT WEAR, or other consumer ANC headphones.  I was surprised to see as much treble extension as I did, and a little Knowles-like bump at 16kHz. I have to wonder if the engineers who offered feedback on the headphones were a little older than I am, but it’s always easier to cut ranges you don’t like during equalization!
+
+Looking at this another way, you can see that the main areas of deviation are reserved for the highest octaves, which play jump rope with our curve a bit. The rest of the response is pretty boring. Despite not following our preference curve in the lows, the highs were thankfully not as bright as previous headphones in this line have been. This is a pretty consumer-friendly response.
+
+Multi-Dimensional Audio Quality Scores (MDAQS)
+
+The chart below shows how the Multi-Dimensional Audio Quality Score (MDAQS) algorithm from HEAD acoustics assesses the sound of the Sony WH-1000XM6. The sound quality is rated on a scale from 1.0 (very bad) to 5.0 (very good).
+
+Well, there you have it, if submitted to a panel of a few hundred listeners, the Sony WH-1000XM6 would be rated very highly. The timbre, distortion, and immersiveness — even on the most basic settings — is very positively received, and at no point even strays into the merely “okay.” While some may be skeptical of the smaller drivers, it seems that Sony has made the most of their DSP and build to create a set of headphones that most people would enjoy very much. The illusion of 3D space is pretty good without enabling any sort of Spatial Audio, and the distortion is very low even over SBC and LC3.
+
+Can you use the Sony WH-1000XM6 for phone calls?
+
+One of the main features that Sony hyped to us in our product briefings was the use of AI to train a model that extracts human voices from noise fields. With a 6-mic beamforming array, the headphones have everything they need on paper to handle calls well, but we always put it to the test. Below are samples taken in our lab.
+
+Should you buy the Sony WH-1000XM6?
+
+Yes, but it depends whether you’re hoping to get a product to last you for a few years, or you want something that works great now and you aren’t worried about having your gear stay up-to-date. I’m one of those people; I had my last ANC headphones from 2018-2024. But $449.99 is a lot of money to spend on headphones, even if that’s where the rest of the pack is starting to settle around.
+
+While the Sony WH-1000XM6 is undeniably the best WH-1000XM-series headphones to date, they’re not going to remain the best ANC headphones for long. The world of wireless is changing quickly with the proliferation of new features designed to add capabilities to our headphones, and in that respect, the Sony WH-1000XM6 is more at home in 2025 than it will be in 2026 or beyond. Sony spent a lot of time and effort fixing the issues that people complained about — and that’s laudable! But in doing so, the company took its proverbial eyes off the future.
+
+What should you get instead of the Sony WH-1000XM6?
+The main competitors to the Sony WH-1000XM6 are going to be the USB-C variant of the Apple AirPods Max ($499 at Amazon), JBL Tour One M3 ($449.95 at Amazon), Bose QuietComfort Ultra ($429 at Amazon), and Bose QuietComfort Headphones ($349 at Amazon). However, there’s no clear-cut winner amongst these options unless you have an iPhone (AirPods Max). I say that because each of these headphones offers something that the Sony cans do not, and vice versa. For example, the flagship Bose option offers Snapdragon Sound, and the less-expensive Bose option is much more affordable than the Sony. In another vein, the JBL Tour One M3 offers a lower price tag, much better connectivity, comfort, and battery life, but falls behind in sound quality. All four of these products offer similar levels of ANC, but the AirPods Max and Sony WH-1000XM6 trounce the rest when it comes to isolation.
+
+For the interim, it looks like the Sony WH-1000XM6 is the best option for many people to get without much question, but if you’re looking to grab something a little less expensive, there are a few options. For example, the Sony ULT WEAR ($199.99 at Amazon), is perfectly fine if you’re willing to put some effort into using the in-app equalizer. Likewise the Sennheiser MOMENTUM 4 Wireless ($289.23 at Amazon) sounds excellent, but falls behind in ANC performance.
+
+The Sony WH-1000XM6 vs Apple AirPods Max
+
+In a direct head-to-head comparison, the Sony WH-1000XM6 takes the win on sound quality, battery life, and wireless features. Both tie in ANC performance, but the AirPods Max win out on wired connectivity by being able to use its USB-C port for lossless audio over a digital cable. Price-wise, the Sony WH-1000XM6 are still more affordable than Apple’s offering by about $100.
+
+The sound of the Sony WH-1000XM6 will likely be more preferable to you and many others, as it doesn’t underemphasize certain regions in the highs by default. Though this kind of under-emphasis isn’t all that objectionable, it can be when paired with extreme changes in the uppermost octaves like the AirPods Max does.
+
+The Sony WH-1000XM6 vs. Sony WH-1000XM5
+
+The Sony WH-1000XM6 stacks up very well to the WH-1000XM5 in every category but price. The newer headphones have better ANC, better sound, better battery life, and better connectivity. Comfort is a bit of a push, but that’s not necessarily a good thing.
+
+The sound of the newer WH-1000XM6 is more pleasing to the ear, and is also much easier to equalize in the lows and mids. Consequently, it’s no surprise that both our staff and HEAD acoustics’ MDAQS preferred the sound of the newer headphones over the WH-1000XM5.
+
+The Sony WH-1000XM6 vs. Nothing Headphone (1)
+
+The Nothing Headphone (1) are a great alternative to the Sony WH-1000XM6. You can grab the Nothing Headphone (1) for ($299.99 at Amazon), making them a more affordable option. Despite the more affordable price, the Nothing Headphone (1) still deliver a great design, good noise canceling, and highly customizable sound quality. While the ANC and sound quality performance isn’t quite as good as the Sony WH-1000XM6 headphones, these headphones deliver the core features and performance to meet most people’s needs.
