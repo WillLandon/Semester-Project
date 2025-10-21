@@ -21,6 +21,11 @@ Removes punctuation from article
 Manages the text preprocessing  
 Creates TextAnalysis objects  
 
+## RemoveStopWords.java
+Loads stop words from file  
+Filters out common words from text  
+Maintains a list of stop words for text cleaning  
+
 ## TextAnalysis.java
 Calculates word statistics, total words and unique words  
 Counts word frequencies using ArrayList class  
