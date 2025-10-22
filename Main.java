@@ -1,6 +1,7 @@
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
+import edu.stanford.nlp.pipeline.*;
 
 public class Main {
     public static void main(String[] args) throws FileNotFoundException {
