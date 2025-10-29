@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.HashMap;
 
 public class TextAnalysis {
         //Original list of words after reading them
@@ -93,6 +94,17 @@ public class TextAnalysis {
             this.rankedWords = tempWords;
             this.rankedFrequencies = tempFrequencies;
             }
+
+              //@Michael
+            //Returns the sentiment score of the article
+            public double sentScore(ArrayList<String> article, HashMap<String, Double> score) {
+                double count = 0;
+                for (String word : article) {
+                    count += score.get(word);
+                }
+                return count;
+            }
+
 
         public void printStatistics() {
             System.out.println("Total words: " + totalWords);
