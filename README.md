@@ -1,3 +1,6 @@
+![Class Diagram](/Users/willlandon/Downloads/semesterProjectUML.png)
+
+
 # Project Overview
 This is a text analysis application using Java to process articles from different topic, performs text preprocessing, and calculates various statistic including word frequencies and rankings. This project demonstrates basic processing techniques for comparative text analysis.
 
