@@ -1,4 +1,4 @@
-![Class Diagram](Semester-Project/semesterProjectUML.png)
+![Class Diagram](/Users/willlandon/Desktop/ProgrammingWorkshop/Semester-Project/semesterProjectUML.png)
 
 
 # Project Overview
