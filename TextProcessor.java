@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class TextProcessor {
     //Removes stop words from articles
     private RemoveStopWords removeStopWords;
+    private SentimentLexicon sentimentLexicon;
 
     /**
      * Constructor that initializes the stop words remover
@@ -13,6 +14,7 @@ public class TextProcessor {
      */
     public TextProcessor() throws FileNotFoundException {
         this.removeStopWords = new RemoveStopWords("stopwords.txt");
+        this.sentimentLexicon = new SentimentLexicon("lexicon_scores.txt");
     }
 
     /**
