@@ -1,6 +1,7 @@
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.Scanner;
 
 public class TextProcessor {
@@ -14,7 +15,7 @@ public class TextProcessor {
      */
     public TextProcessor() throws FileNotFoundException {
         this.removeStopWords = new RemoveStopWords("stopwords.txt");
-        this.sentimentLexicon = new SentimentLexicon("lexicon_scores.txt");
+        this.sentimentLexicon = new SentimentLexicon("sent txt/lexicon_scores.txt");
     }
 
     /**
@@ -37,8 +38,10 @@ public class TextProcessor {
         //Filter out stop words
         ArrayList<String> filteredWords = removeStopWords.removeStopWords(words);
 
+        HashMap<String, Double> sentimentScores = sentimentLexicon.getSentimentScores();
+
         //Analyzes the filtered words
-        return new TextAnalysis(filteredWords);
+        return new TextAnalysis(filteredWords, sentimentScores);
 
     }
 

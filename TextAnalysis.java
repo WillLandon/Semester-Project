@@ -17,14 +17,42 @@ public class TextAnalysis {
         //Frequencies corresponding to rankedWords
         private ArrayList<Integer> rankedFrequencies;
 
+        private double sentimentScore;
+        private HashMap<String, Double> sentimentScores;
+
     /**
      * Constructor that performs text analysis on provided words
      * @param words ArrayList of words to analyze
      */
-    public TextAnalysis(ArrayList<String> words) {
+    public TextAnalysis(ArrayList<String> words, HashMap<String, Double> sentimentScores) {
             this.words = words;
+            this.sentimentScores = sentimentScores;
             calculateStatistics();
+            calculateSentimentScore();
         }
+
+    /**
+     * Calculates sentiment score of the article
+     */
+    public void calculateSentimentScore() {
+        double totalScore = 0.0;
+        int wordsWithScores = 0;
+
+        for (String word : words) {
+            Double score = sentimentScores.get(word.toLowerCase());
+            if (score != null) {
+                totalScore += score;
+                wordsWithScores++;
+            }
+        }
+
+        //Calculate average sentiment score
+        if (wordsWithScores > 0) {
+            this.sentimentScore = totalScore / wordsWithScores;
+        } else {
+            this.sentimentScore = 0.0;
+        }
+    }
 
     /**
      * Calculates several text statistics including word frequencies
@@ -110,6 +138,8 @@ public class TextAnalysis {
             System.out.println("Total words: " + totalWords);
             System.out.println("Unique words: " + uniqueWords);
             System.out.println("Frequencies: " + frequencyList);
+            System.out.println("Sentiment Score: " + String.format("%.2f", sentimentScore));
+            System.out.println("Sentiment: " + getSentimentLabel());
 
             //Displays top 10 words
             System.out.println("Top 10 words by frequency:");
@@ -117,5 +147,22 @@ public class TextAnalysis {
                 System.out.println((i + 1) + ": " + rankedWords.get(i) + " " + rankedFrequencies.get(i));
             }
         }
+
+    /**
+     * Returns a sentiment label based on the score
+     * @return String describing the sentiment
+     */
+    private String getSentimentLabel() {
+        if (sentimentScore > 0.5) return "Very Positive";
+        if (sentimentScore > 0.1) return "Positive";
+        if (sentimentScore > -0.1) return "Neutral";
+        if (sentimentScore > -0.5) return "Negative";
+        return "Very Negative";
+        }
+
+    //Getter for sentiment score
+    public double getSentimentScore() {
+        return sentimentScore;
     }
+}
 
