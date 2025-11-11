@@ -123,17 +123,6 @@ public class TextAnalysis {
             this.rankedFrequencies = tempFrequencies;
             }
 
-              //@Michael
-            //Returns the sentiment score of the article
-            public double sentScore(ArrayList<String> article, HashMap<String, Double> score) {
-                double count = 0;
-                for (String word : article) {
-                    count += score.get(word);
-                }
-                return count;
-            }
-
-
         public void printStatistics() {
             System.out.println("Total words: " + totalWords);
             System.out.println("Unique words: " + uniqueWords);
