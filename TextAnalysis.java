@@ -153,10 +153,10 @@ public class TextAnalysis {
      * @return String describing the sentiment
      */
     private String getSentimentLabel() {
-        if (sentimentScore > 0.5) return "Very Positive";
-        if (sentimentScore > 0.1) return "Positive";
-        if (sentimentScore > -0.1) return "Neutral";
-        if (sentimentScore > -0.5) return "Negative";
+        if (sentimentScore > 1.0) return "Very Positive";
+        if (sentimentScore > 0.3) return "Positive";
+        if (sentimentScore > -0.3) return "Neutral";
+        if (sentimentScore > -1.0) return "Negative";
         return "Very Negative";
         }
 

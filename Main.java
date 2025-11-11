@@ -6,7 +6,7 @@ import java.util.HashMap;
 public class Main {
     public static void main(String[] args) throws FileNotFoundException {
         //Sets the topic to process, can be changed to "movies" or "roman"
-        String topic = "headphones";
+        String topic = "movies";
 
         //Creates TextProcessor instance for text analysis
         TextProcessor processor = new TextProcessor();
