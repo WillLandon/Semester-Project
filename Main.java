@@ -2,11 +2,35 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) throws FileNotFoundException {
-        //Sets the topic to process, can be changed to "movies" or "roman"
-        String topic = "movies";
+        Scanner scanner = new Scanner(System.in);
+        String topic = "";
+
+        while (true) {
+            System.out.println("Welcome to text analysis using Java!");
+            System.out.println("Please select a topic you would like to analyze: ");
+            System.out.println("1. headphones");
+            System.out.println("2. movies");
+            System.out.println("3. roman");
+            int option = scanner.nextInt();
+            switch (option) {
+                case 1:
+                    topic = "headphones";
+                    break;
+                case 2:
+                    topic = "movies";
+                    break;
+                case 3:
+                    topic = "roman";
+                    break;
+                default:
+                    System.out.println("Invalid option!");
+            }
+            break;
+        }
 
         //Creates TextProcessor instance for text analysis
         TextProcessor processor = new TextProcessor();
