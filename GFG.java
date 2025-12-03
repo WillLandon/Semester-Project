@@ -21,4 +21,8 @@ public class GFG {
         //Creating Folders
         File folder = new File(currentDirectory + File.separator + topic);
     }
+    public static void createMyFolders(String topic) {
+        String currentDirectory = System.getProperty("user.dir");
+        File folder = new File(currentDirectory + File.separator + topic);
+    }
 }
