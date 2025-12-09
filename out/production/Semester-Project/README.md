@@ -59,6 +59,18 @@ A comprehensive text analysis application that processes article across multiple
 
 # Usage
 ```
+========================================
+Welcome to Text Analysis using Java!
+========================================
+1. Select a topic
+2. Add a new topic
+3. Add articles to existing topic
+4. Exit
+Enter your choice: 
+```
+
+# Example Results
+```
 
 ```
 
