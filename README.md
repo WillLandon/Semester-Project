@@ -1,50 +1,75 @@
-![Class Diagram](semesterProjectUMLFinal.png)
 
 
 # Project Overview
-This is a text analysis application using Java to process articles from different topic, performs text preprocessing, and calculates various statistic including word frequencies, rankings, and sentiment analysis. This project demonstrates basic processing techniques for comparative text analysis.
+A comprehensive text analysis application that processes article across multiple topics, performing statistical analysis, word frequency ranking, and sentiment analysis. Users can also add their own topics and articles via the interactive menu. 
 
 # Features
-Text Preprocessing: Removes punctuation and stop words from text files  
-Statistical Analysis: Calculates total  
-Frequency Ranking: Ranks words by frequency using bubble sort  
-Sentiment Analysis: Calculates sentiment scores using a lexicon-based approach  
-Multiple Topics: Processes articles from three different categories  
-Stop Word Filtering: Uses a stop word list to filter out common words  
+- Text Preprocessing: Removes punctuation and common stop words from text files
+- Statistical Analysis: Calculates total word count, unique words, and word frequencies
+- Frequency Ranking: Ranks words by frequency using bubble sort
+- Sentiment Analysis: Calculates sentiment scores using a lexicon-based approach
+- Topic Management: Add new topics and articles through menus
+- Multiple Topics: Processes articles from various categories (headphones, movies, Roman history, and custom user-imported topics)
 
 # Classes
 
+## Class Diagram
+![Class Diagram](semesterProjectUMLFinal.png)
+
 ## Main.java
-Runs the text analysis process  
-Manages file paths for different topics  
-Displays the results for each article  
+- Purpose: Main driver class with menu system  
+- Responsibilities:
+  - Manages user interaction through console menus
+  - Handles topic selection and creation
+  - Manages files and articles
+  - Integrates all analysis components
 
 ## TextProcessor.java
-Reads text files using the Scanner class  
-Removes punctuation from article  
-Manages the text preprocessing  
-Creates TextAnalysis objects  
-Integrates sentiment analysis functionality  
+- Purpose: Central processing unit for text analysis
+- Responsibilities:
+  - Reads text files using Scanner class
+  - Removes punctuation from articles
+  - Coordinates text preprocessing
+  - Creates TextAnalysis objects for statistical processing
+  - Integrates sentiment analysis functionality
 
 ## RemoveStopWords.java
-Loads stop words from file  
-Filters out common words from text  
-Maintains a list of stop words for text cleaning  
+- Purpose: Filters common words from text
+- Responsibilities:
+  - Loads stop words from external file
+  - Filters out common words during text cleaning
+  - Maintains a list of stop words for text processing
 
 ## TextAnalysis.java
-Calculates word statistics, total words and unique words  
-Counts word frequencies using ArrayList class  
-Ranks words by frequency using bubble sort  
-Calculates sentiment scores and classifies sentiment  
-Displays results  
+- Purpose: Performs statistical analysis and sentiment calculation
+- Responsibilities:
+  - Calculates word statistics (total words and unique words)
+  - Counts word frequencies using ArrayList class
+  - Ranks word by frequency using bubble sort
+  - Calculates sentiment scores and classifies sentiment (Very Positive to Very Negative)
+  - Displays formatted analysis results
 
 ## SentimentLexicon.java
-Loads sentiment scores from a lexicon file  
-Stores word-sentiment score mappings in a HashMap  
-Provides sentiment score lookup for individual words  
-Supports sentiment analysis calculations  
+- Purpose: Manages sentiment scoring system
+- Responsibilities:
+  - Loads sentiment scores from lexicon file
+  - Stores word-sentiment score mappings in a HashMap
+  - Provides sentiment score lookup for individual words
+  - Supports sentiment analysis calculations
 
-## Authors
-Logan Ameres  
-William Landon  
-Michael Kobus
+# Usage
+```
+========================================
+Welcome to Text Analysis using Java!
+========================================
+1. Select a topic
+2. Add a new topic
+3. Add articles to existing topic
+4. Exit
+Enter your choice: 
+```
+
+# Authors
+- Logan Ameres
+- William Landon
+- Michael Kobus
